@@ -9,6 +9,9 @@
 #include  <boost/iterator.hpp>
 #include  <boost/iterator/zip_iterator.hpp>
 #include  <boost/iterator/counting_iterator.hpp>
+#include  <boost/algorithm/cxx11/all_of.hpp>
+#include  <boost/algorithm/cxx11/any_of.hpp>
+#include  <boost/algorithm/cxx11/copy_if.hpp>
 #include  <type_traits>
 
 namespace boost{
